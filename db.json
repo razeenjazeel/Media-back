@@ -1,0 +1,134 @@
+{
+  "videos": [
+    {
+      "id": "3",
+      "caption": "dunki",
+      "thumbnail": "https://img.mensxp.com/media/content/2023/Nov/Shah-Rukh-Khan-Dunki-lowest-budgeted-film-Rs-85-crore-Rajkumar-Hirani-10_655de8046ba2d.jpeg",
+      "url": "https://www.youtube.com/embed/9Z79T_o4v8c"
+    },
+    {
+      "id": "4",
+      "caption": "salaar",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/07/Salaar-Poster.jpg",
+      "url": "https://www.youtube.com/embed/4GPvYMKtrtI"
+    },
+    {
+      "id": "10",
+      "caption": "Jigarthanda XX",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzA2ZTgxNzgtYjM3Ni00NTI1LWJiMjAtMWViNWUzNzIwYTgwXkEyXkFqcGdeQXVyMTMxODA4Njgx._V1_.jpg",
+      "url": "https://www.youtube.com/embed/6GYJFWKIu_s"
+    },
+    {
+      "id": "23",
+      "caption": "Family man",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzRjZWVmMzItNTdmYS00OWEzLTgyOGUtNThiNTU2ZThlYjY0XkEyXkFqcGdeQXVyMTIxMDk2NDE4._V1_.jpg",
+      "url": "https://www.youtube.com/embed/XatRGut65VI"
+    },
+    {
+      "id": "27",
+      "caption": "Abrar entry",
+      "thumbnail": "https://c.saavncdn.com/624/Abrar-s-Entry-Jamal-Kudu-From-ANIMAL-Hindi-2023-20231206121002-500x500.jpg",
+      "url": "https://www.youtube.com/embed/PmdyY38g6Rg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "5",
+      "name": "Trending",
+      "allVideos": [
+        {
+          "id": "9",
+          "caption": "sambahadur",
+          "thumbnail": "https://assets.gadgets360cdn.com/pricee/assets/product/202311/Sam-Bahadur_1699944687.jpg",
+          "url": "https://www.youtube.com/embed/6xJptj7AVSA"
+        },
+        {
+          "id": "a",
+          "caption": "Animal",
+          "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWU5ZDRmMWItZGU0NC00NzZjLTgzYjctY2RlMzI3OTNkN2U5XkEyXkFqcGdeQXVyMTE0MTY2Mzk2._V1_.jpg",
+          "url": "https://www.youtube.com/embed/8FkLRUJj-o0"
+        },
+        {
+          "id": "16",
+          "caption": "Jay shetty",
+          "thumbnail": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71GBwRkvchL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://www.youtube.com/embed/kZl97ec_97s"
+        },
+        {
+          "id": "10",
+          "caption": "Jigarthanda XX",
+          "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzA2ZTgxNzgtYjM3Ni00NTI1LWJiMjAtMWViNWUzNzIwYTgwXkEyXkFqcGdeQXVyMTMxODA4Njgx._V1_.jpg",
+          "url": "https://www.youtube.com/embed/6GYJFWKIu_s"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Music",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "dunki",
+          "thumbnail": "https://img.mensxp.com/media/content/2023/Nov/Shah-Rukh-Khan-Dunki-lowest-budgeted-film-Rs-85-crore-Rajkumar-Hirani-10_655de8046ba2d.jpeg",
+          "url": "https://www.youtube.com/embed/9Z79T_o4v8c"
+        },
+        {
+          "id": "27",
+          "caption": "Abrar entry",
+          "thumbnail": "https://c.saavncdn.com/624/Abrar-s-Entry-Jamal-Kudu-From-ANIMAL-Hindi-2023-20231206121002-500x500.jpg",
+          "url": "https://www.youtube.com/embed/PmdyY38g6Rg"
+        }
+      ]
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": 1,
+      "categoryName": "dunki",
+      "url": "https://www.youtube.com/embed/4GPvYMKtrtI",
+      "date": "27-10-2023"
+    },
+    {
+      "id": "451bebc0-6eb7-4a82-b689-ecc6dd270ee2",
+      "categoryName": "dunki",
+      "url": "https://www.youtube.com/embed/9Z79T_o4v8c",
+      "date": "2023-12-12T04:48:33.286Z"
+    },
+    {
+      "id": "0074bffc-4eda-4e66-8178-fecc25efb298",
+      "categoryName": "salaar",
+      "url": "https://www.youtube.com/embed/4GPvYMKtrtI",
+      "date": "2023-12-12T04:51:48.818Z"
+    },
+    {
+      "id": "712d1bbf-c826-4e97-9aa1-3f9fa71dafff",
+      "categoryName": "Animal",
+      "url": "https://www.youtube.com/embed/8FkLRUJj-o0",
+      "date": "2023-12-12T04:54:44.711Z"
+    },
+    {
+      "id": "6b2c37fa-97a5-4e51-bc1c-1f7f71f1e0b7",
+      "categoryName": "salaar",
+      "url": "https://www.youtube.com/embed/4GPvYMKtrtI",
+      "date": "2023-12-13T03:54:34.184Z"
+    },
+    {
+      "id": "db98be65-a64f-48d5-b223-2bb1d98a83a6",
+      "categoryName": "sambahadur",
+      "url": "https://www.youtube.com/embed/6xJptj7AVSA",
+      "date": "2023-12-13T04:22:58.438Z"
+    },
+    {
+      "id": "85613cba-c072-4269-9400-f8825530e0a8",
+      "categoryName": "Jigarthanda XX",
+      "url": "https://www.youtube.com/embed/6GYJFWKIu_s",
+      "date": "2023-12-14T04:41:53.467Z"
+    },
+    {
+      "id": "063fcfdd-1b45-4de0-9305-1f27fc2d5e89",
+      "categoryName": "Jay shetty",
+      "url": "https://www.youtube.com/embed/kZl97ec_97s",
+      "date": "2023-12-14T04:45:05.800Z"
+    }
+  ]
+}
